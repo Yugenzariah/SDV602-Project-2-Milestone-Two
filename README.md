@@ -1,5 +1,7 @@
 # SDV602-Project-2-Milestone-Two
 
+## To run application you must install virtual environment, PySimpleGUI, and matplotlib
+
 ### Project Structure
 - main.py: Handles the window setup, navigation, and switching between DES screens.
 - des_one.py: Contains the layout and logic for Sales Trends Over Time.
